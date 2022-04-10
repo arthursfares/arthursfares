@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="assets/images/wolverine.jpeg"/>
+  <img height="512em" width="512em" src="assets/images/wolverine.jpeg"/>
 </div>
